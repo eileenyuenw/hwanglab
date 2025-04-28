@@ -285,7 +285,7 @@ footer{
 
     .nav-collapse ul {
         display: flex;
-        justify-content: space-evenly; /* or center / space-between / space-evenly */
+        justify-content: space-evenly;
         padding: 0;
         margin: 0;
     }
