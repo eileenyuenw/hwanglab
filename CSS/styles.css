@@ -237,6 +237,7 @@ footer{
 
 .member-email{
     font-size: 18px;
+    text-align: center;
 }
 
 .member-bio{
@@ -406,7 +407,7 @@ footer{
         margin-left: 3rem;
     }
 
-    .member-name, .member-role{
+    .member-name, .member-role, .member-email{
         text-align: left;
     }
 
